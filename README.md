@@ -1,4 +1,4 @@
-# MMA-LO211 — Materials Management & Forecasting
+# MMA-LO211/311 — Logistics Information Systems
 
 Course materials for the materials management forecasting sequence:
 demand analysis, forecasting, and order-quantity decisions built on the
